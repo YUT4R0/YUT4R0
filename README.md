@@ -32,3 +32,21 @@
 <div>
   <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,">
 </div>
+
+  ##
+  
+See my other Profiles (feel free to contact me):
+  <div>
+   <a href="mailto:pedroyutaronakamura@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://discord.com/users/402990728571256853">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" >
+</a>
+  </div>
+  
+  
+  
+  
+  
+  

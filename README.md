@@ -24,7 +24,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,styledcomponents,tailwind,vite">
 </div>
-  
+  - 🌱 I’m currently learning Front-end development
   <br>
  - Technologies that i'm currenly learning:
   <br>

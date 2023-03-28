@@ -1,7 +1,7 @@
 ### Whatsup folks ^^!!! 👋
 
 - 🔭 I’m currently studying on my own and working on smalls personal projects;
-- 🌱 I’m currently learning advanced Front-end development;
+- 🌱 Also, i'm currently learning advanced Front-end development;
 
 <div>
   <a href="https://github.com/YUT4R0/" >
@@ -27,7 +27,7 @@
 </div>
   
   <br>
-  🤙 Technologies that i'm currenly learning:
+  🤙 Technologies that i'm currently learning:
   <br>
 <div>
   <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,">

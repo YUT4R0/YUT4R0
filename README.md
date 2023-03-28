@@ -12,9 +12,22 @@
 </div>
   
   <br>
-- technologies I work with:
- 
+ - Technologies that i currently work with:
+  <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bash,figma,git,github,sass">
 </div>
-    
+   
+  <br>
+ - Libs/Frameworks that i currently work with:
+  <br>
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,styledcomponents,tailwind,vite">
+</div>
+  
+  <br>
+ - Technologies that i'm currenly learning:
+  <br>
+<div>
+  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,">
+</div>

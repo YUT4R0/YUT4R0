@@ -21,14 +21,12 @@
    
   <br>
  👌 Libs/Frameworks that i currently work with:
-  <br>
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,styledcomponents,tailwind,vite">
 </div>
   
   <br>
   🤙 Technologies that i'm currenly learning:
-  <br>
 <div>
   <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,">
 </div>

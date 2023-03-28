@@ -11,8 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@YUT4R0&theme=radical">
 </div>
   
+   ##
+  
   <br>
-  <h1> Technologies that i currently work with: </h1>
+  ## Technologies that i currently work with: 
   <br>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bash,figma,git,github,sass">

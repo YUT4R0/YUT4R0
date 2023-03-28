@@ -13,7 +13,6 @@
   
    ##
   
-  <br>
    👍 Technologies that i currently work with: 
   <br>
 <div>

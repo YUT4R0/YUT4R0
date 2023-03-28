@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front-end development 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUT4R0&acount_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUT4R0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUT4R0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@YUT4R0)](https://github.com/anuraghazra/github-readme-stats)
 
 

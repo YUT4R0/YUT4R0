@@ -14,10 +14,10 @@
    ##
   
   <br>
-  ## Technologies that i currently work with: 
+  Technologies that i currently work with: 
   <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bash,figma,git,github,sass">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bash,vim,figma,git,github,sass">
 </div>
    
   <br>

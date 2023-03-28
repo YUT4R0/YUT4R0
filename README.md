@@ -12,7 +12,8 @@
 </div>
   
   <br>
-  
+- technologies I work with:
+ 
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css">
 </div>

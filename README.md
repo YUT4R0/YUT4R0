@@ -12,7 +12,7 @@
 </div>
   
   <br>
- ### Technologies that i currently work with:
+  <h1> Technologies that i currently work with: </h1>
   <br>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bash,figma,git,github,sass">

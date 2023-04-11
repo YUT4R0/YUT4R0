@@ -30,7 +30,7 @@
   🤙 Technologies that I'm currently learning:
   <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,">
+  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,planetscale">
 </div>
 
   ##

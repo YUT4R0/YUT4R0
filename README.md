@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YUT4R0&acount_private=true&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUT4R0&layout=compact&theme=radical">
     <br>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@YUT4R0&theme=radical">
+  <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@YUT4R0&theme=radical">
 </div>
   
    ##

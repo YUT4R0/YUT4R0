@@ -3,6 +3,9 @@
 - 🔭 Currently studying on my own and working on smalls personal projects!
 - 🌱 Nowadays, i'm learning advanced Front-end development by myself!
 
+##
+👨‍💻 My development stats: 
+
 <div>
   <a href="https://github.com/YUT4R0/" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YUT4R0&acount_private=true&show_icons=true&theme=radical">

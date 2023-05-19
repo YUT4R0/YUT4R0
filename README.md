@@ -1,4 +1,4 @@
-### Whatsup folks ^^!!! 👋
+### Hayooo there! 8^)
 
 - 🔭 Currently studying on my own and working on smalls personal projects!
 - 🌱 Nowadays, i'm learning advanced Front-end development by myself!

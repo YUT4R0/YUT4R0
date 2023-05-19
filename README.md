@@ -25,6 +25,7 @@
   <br>
  👌 Libs/Frameworks I work with:
   <br>
+  
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,styledcomponents,tailwind,vite">
 </div>
@@ -32,6 +33,7 @@
   <br>
   🤙 Technologies that I'm currently learning:
   <br>
+  
 <div>
   <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,planetscale">
 </div>

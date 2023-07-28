@@ -1,4 +1,4 @@
-### Hayooo there! 8^)
+### Hay there ;)
 
 - 🔭 Currently studying on my own and working on smalls personal projects!
 - 🌱 Nowadays, i'm learning advanced Front-end development by myself!
@@ -35,7 +35,7 @@
   <br>
   
 <div>
-  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,planetscale">
+  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,planetscale,python">
 </div>
 
   ##

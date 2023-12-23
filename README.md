@@ -21,7 +21,7 @@
 
 ## 🤙 Technologies that I'm currently learning:
 <div>
-  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,java">
+  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,java,kotlin">
 </div>
 
 ## See my other Profiles (feel free to contact me):

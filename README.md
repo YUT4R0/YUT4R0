@@ -10,21 +10,18 @@
 </div>
   
 ## 👍 Technologies that I master: 
-  <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vim,figma,git,github,sass">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,figma,git,github">
 </div>
-  <br>
+
 ## 👌 Libs/Frameworks I work with:
-  <br>
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,styledcomponents,tailwind,vite">
 </div>
-  <br>
+
 ## 🤙 Technologies that I'm currently learning:
-  <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,planetscale,python">
+  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,java">
 </div>
 
 ## See my other Profiles (feel free to contact me):
@@ -39,9 +36,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
    </a>
  </div>
-  
-  
-  
-  
-  
-  

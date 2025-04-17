@@ -17,12 +17,12 @@ Feel free to check out my projects and contributions!
   
 ## 👨‍🎓 Languages that I master: 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,java,git,github,sql">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,java,sql">
 </div>
 
-## 👨‍💻 Fullstack technologies I work with:
+## 👨‍💻 Technologies and tools I work with:
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,postgres,anaconda,nodejs,redis,prisma,gcp,vercel">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,postgres,anaconda,nodejs,redis,prisma,gcp,vercel,git,github">
 </div>
 
 ## 🏋️‍♂️ What I'm currently learning:

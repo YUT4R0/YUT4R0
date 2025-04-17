@@ -22,7 +22,7 @@ Feel free to check out my projects and contributions!
 
 ## 👨‍💻 Technologies and tools I work with:
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,postgres,anaconda,nodejs,redis,prisma,gcp,vercel,git,github">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,postgres,docker,anaconda,nodejs,redis,prisma,gcp,vercel,git,github">
 </div>
 
 ## 🏋️‍♂️ What I'm currently learning:

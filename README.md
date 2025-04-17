@@ -1,27 +1,33 @@
-# Hi there ;)
+# Hi there 👋
 
-- 🔭 Currently studying on my own and working on small personal projects!
-- 🌱 Nowadays, I'm learning advanced Front-end development by myself!
+I'm a passionate Web/Mobile Developer who focuses on React, React Native, TypeScript, and Node.js.
 
-## 👨‍💻 My development stats: 
+- 🎓 Currently pursuing a degree in Computer Science while deepening my knowledge through research projects and academic studies.
+- 🔧 I build full-stack applications from scratch.
+- 🌱 Currently improving my skills in **system architecture**, **performance optimization**, and **team/project management**.
+- 🚀 Looking for internship opportunities to apply my academic knowledge in real-world projects and grow through collaboration with multidisciplinary teams.
+
+Feel free to check out my projects and contributions!
+
+## 📊 My development stats: 
 <div>
   <a href="https://github.com/YUT4R0/" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUT4R0&layout=compact&theme=radical">
 </div>
   
-## 👍 Technologies that I master: 
+## 👨‍🎓 Languages that I master: 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,figma,git,github">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,java,git,github,sql">
 </div>
 
-## 👌 Libs/Frameworks I work with:
+## 👨‍💻 Fullstack technologies I work with:
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,styledcomponents,tailwind,vite">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,postgres,anaconda,nodejs,redis,prisma,gcp,vercel">
 </div>
 
-## 🤙 Technologies that I'm currently learning:
+## 🏋️‍♂️ What I'm currently learning:
 <div>
-  <img src="https://skillicons.dev/icons?i=apollo,express,graphql,jest,prisma,sqlite,mysql,java,kotlin">
+  <img src="https://skillicons.dev/icons?i=aws,flutter,firebase,go,nginx,mysql,mongodb,jest,django">
 </div>
 
 ## See my other Profiles (feel free to contact me):

@@ -27,7 +27,7 @@ Feel free to check out my projects and contributions!
 
 ## 🏋️‍♂️ What I'm currently learning:
 <div>
-  <img src="https://skillicons.dev/icons?i=aws,flutter,firebase,go,c#,nginx,mysql,mongodb,jest,django">
+  <img src="https://skillicons.dev/icons?i=aws,flutter,firebase,go,cs,nginx,mysql,mongodb,jest,django">
 </div>
 
 ## See my other Profiles (feel free to contact me):
